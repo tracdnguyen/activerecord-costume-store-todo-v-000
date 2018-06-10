@@ -17,5 +17,6 @@ class CreateCostumes < ActiveRecord::Migration[5.1]
       t.string :size
 
       t.timestamp
+    end
   end
 end
