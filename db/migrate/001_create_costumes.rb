@@ -8,5 +8,5 @@
 # In this change method, create columns with the correct names and
 # value types according to the spec
 
-class CreateCostumes < ActiveRecord::Base
+class CreateCostumes < ActiveRecord::Migration
 end
